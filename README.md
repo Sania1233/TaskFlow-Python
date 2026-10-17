@@ -43,7 +43,7 @@ JSON serialization, and input validation.
   
 ## Application Screenshot
 
-![TaskFlow application dashboard](taskflow-screenshot.png)
+![TaskFlow application dashboard](Screenshot 2026-10-17 223230.png)
 
 
 ## Author
