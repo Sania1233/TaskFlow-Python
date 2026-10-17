@@ -40,6 +40,11 @@ JSON serialization, and input validation.
 - Search and edit tasks
 - Overdue task reminders
 - SQLite database integration
+  
+## Application Screenshot
+
+![TaskFlow application dashboard](taskflow-screenshot.png)
+
 
 ## Author
 **Sania Banyal**  
